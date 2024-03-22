@@ -1,0 +1,26 @@
+{
+  "name": "tomahawkjs",
+  "version": "1.0.0",
+  "description": "framework javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andre-Rodrigues-Dev-Web/tomahawkjs.git"
+  },
+  "keywords": [
+    "tomahawjs",
+    "javascript",
+    "react",
+    "vue",
+    "angular"
+  ],
+  "author": "Andre Laurentino Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andre-Rodrigues-Dev-Web/tomahawkjs/issues"
+  },
+  "homepage": "https://github.com/Andre-Rodrigues-Dev-Web/tomahawkjs#readme"
+}
